@@ -8,7 +8,7 @@ The video content will include following two things:
 1. Walkthrough of code
 2. Result demonstration
 
-If you insiste to run through these codes by yourself， here is the guideline for you:
+If you insiste to run through these codes by yourself，here is the guideline for you:
 1. All the package needed for this project is provided in the first part of the project as a pip install command.
 2. Some newly installed package need to be rooted manually.
 3. In part 2.1, the observation window size and location need to be adjusted according to the screen size of your machine.
