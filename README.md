@@ -8,7 +8,7 @@ For simplicity, I will include a video file as a demonstration of my Jupyter Not
 The video content will include following two things:
 1. Walkthrough of code
 2. Result demonstration
-3. **YouTube link**: 
+3. **YouTube link**: https://youtu.be/Y6pUV4PqsYE
 
 If you insisted to run through these codes by yourself，here is the guideline for you:
 1. All the package needed for this project is provided in the first part of the project as a pip install command.R
