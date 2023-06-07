@@ -19,5 +19,3 @@ If you insisted to run through these codes by yourself，here is the guideline f
 machine's RAM. 420,000 is recommended for 16G RAM machine and 1,200,000 is recommended for 32G RAM machine.
 
 Once you done with these, the Jupyter Notebook file should works for you. Enjoy.
-If your machine has a **17.3 inches screen** with **16G RAM**, feel free to try the sample model that I trained for **570k time steps**.
-**Sample model** is a **zip file**.
