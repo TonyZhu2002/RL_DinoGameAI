@@ -1,4 +1,4 @@
-# ECS171-Final-Project
+# Reinforcement Learning - Dino Game AI Trainer
 The project is about using Reinforcement Learning to train an AI that can play Google Dino Game and compare the learning performance among different reward systems.
 A **project poster** is uploaded for a general overview for this project.
 
